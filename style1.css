@@ -1,0 +1,87 @@
+body
+	{
+	background-color:white;
+	font-family:Bahnschrift;
+	color:black;
+	font-size:11.5pt;
+	top:0;
+	}
+h1
+	{
+    font-size: 25pt;
+	background-color:white;
+	position:absolute;
+	text-decoration:none;
+	}
+h2{
+    text-align: ;
+    padding-top: 10px;
+   }
+    
+ul 
+	{
+  	list-style-type: none;
+  	margin: 0;
+  	top:65px;
+  	background-color:;
+  	font-family: "Bahnschrift";
+	width: 100%;
+	position:absolute;	
+	}
+   
+ 
+ table, th, td{
+     border: 1px solid black;
+     border-collapse: collapse;
+ }
+
+th, td {
+  padding: 15px;
+}
+th {
+  text-align: left;
+}
+
+.select {
+    padding: 50px 0px 0px;
+}
+
+.Insert {
+    padding-bottom : 10px;
+}
+
+
+.button, .submit, .act {
+  background-color: #d3d3d3;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+}
+
+
+input[type="submit"].button:hover{
+    background-color: #bebebe;
+}
+
+form{
+    display: block;
+    margin-top: 0em;
+}
+
+.menu{
+    padding-top:60px;
+}
+
+.submit{
+    padding-bottom:20px;
+}
+
+
